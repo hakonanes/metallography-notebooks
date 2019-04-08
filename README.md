@@ -1,2 +1,2 @@
 # metallography-notebooks
-Jupyter notebooks for metallography analysis
+A collection of Jupyter notebooks for metallography analysis.
